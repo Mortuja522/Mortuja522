@@ -30,6 +30,6 @@
 
 
 
-[twitter]: https://twitter.com/MorshedMortuja
+[twitter]: https://twitter.com/MortujaMorshed
 [instagram]: https://www.instagram.com/mortuja_arnob/
 [linkedin]: https://www.linkedin.com/in/mortuja-morshed-a3211317b/
