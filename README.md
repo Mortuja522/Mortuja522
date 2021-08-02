@@ -1,7 +1,7 @@
 ### Hi there, I'm Mortuja Morshed
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MorshedMortuja?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MorshedMortuja)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MorshedMortuja?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MortujaMorshed)
 
 ## I'm a Lover, Developer, and Student!!
 
