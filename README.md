@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MortujaMorshed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MortujaMorshed)
 
-## I'm a Lover, Developer, Student!!
+## I'm Student of Amrican Internantion university Bangladesh!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
