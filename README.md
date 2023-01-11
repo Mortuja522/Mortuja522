@@ -5,10 +5,10 @@
 
 ## I Graduated from the American International University Bangladesh!!!
 
--I’m currently learning everything</br>
--I’m looking to collaborate with other developers</br>
--I’m currently working on ...</br>
--I’m looking for help with ...</br>
+-learning everything</br>
+-looking to collaborate with other developers</br>
+-currently working on ...</br>
+-looking for help with ...</br>
 -Ask me about ...
 
 [![ Mortuja Morshed GitHub stats](https://github-readme-stats.vercel.app/api?username=Mortuja522&show_icons=true&theme=radical)](https://github.com/Mortuja522)
