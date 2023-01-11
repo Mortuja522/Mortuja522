@@ -1,4 +1,4 @@
-### Hi there, I'm Mortuja Morshed
+<h1 style="color:blue";> Hi there, I'm Mortuja Morshed <h1>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MortujaMorshed?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/MortujaMorshed)
@@ -35,10 +35,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />]
-
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">]
 <br />
-<br/>
-<br/>
 
 [twitter]: https://twitter.com/MortujaMorshed
 [instagram]: https://www.instagram.com/mortuja_arnob/
